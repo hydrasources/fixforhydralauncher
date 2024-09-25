@@ -4,7 +4,7 @@ English:
 
 This program fixes many bugs and errors in HydraLauncher
 
-#Instructions:
+# Instructions:
 1: Download the program from releases(https://github.com/hydrasources/fixforhydralauncher/releases/)
 
 2: Open the program
@@ -22,7 +22,7 @@ hydrasources.github.io
 
 
 
-#Русский:
+# Русский:
 
 Данная программа чинит многие баги и ошибки в HydraLauncher
 
