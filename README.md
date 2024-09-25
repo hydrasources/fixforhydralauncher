@@ -21,7 +21,7 @@ This program fixes many bugs and errors in HydraLauncher
 Done! The folder is deleted, you will need to log in again and add sources.
 
 Source:
-hydrasources.github.io
+https://hydrasources.github.io
 
 
 
@@ -43,4 +43,4 @@ hydrasources.github.io
 Готово! Папка удалена, нужно будет заново войти в аккаунт и добавить источники
 
 Источник:
-hydrasources.github.io
+https://hydrasources.github.io
