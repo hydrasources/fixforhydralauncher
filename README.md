@@ -1,10 +1,13 @@
 # fixforhydralauncher
 
-English:
+
+# Instructions:
+
+# English:
 
 This program fixes many bugs and errors in HydraLauncher
 
-# Instructions:
+
 1: Download the program from releases(https://github.com/hydrasources/fixforhydralauncher/releases/)
 
 2: Open the program
