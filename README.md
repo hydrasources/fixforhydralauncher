@@ -13,6 +13,8 @@ This program fixes many bugs and errors in HydraLauncher
 
 4: Confirm deletion of the folder
 
+
+
 Done! The folder is deleted, you will need to log in again and add sources.
 
 Source:
