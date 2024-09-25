@@ -21,7 +21,8 @@ Source:
 hydrasources.github.io
 
 
-Русский:
+
+#Русский:
 
 Данная программа чинит многие баги и ошибки в HydraLauncher
 
