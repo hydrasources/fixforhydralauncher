@@ -1,46 +1,55 @@
-# fixforhydralauncher
+# FixForHydraLauncher
 
+**FixForHydraLauncher** is a utility designed to resolve bugs and errors in HydraLauncher, ensuring a seamless user experience. It supports three languages (English, Portuguese, and Russian), allows users to choose between installer or portable versions, and offers the option to download the latest Hydra version.
 
-Instructions:
+---
 
-# English:
+## Features
 
-This program fixes many bugs and errors in HydraLauncher
+- **Bug Fixes**: Resolves various bugs and errors in HydraLauncher.
+- **Latest Version Download**: Optionally downloads the most up-to-date version of Hydra upon user request.
+- **Installer or Portable**: Allows users to select between installer or portable versions of the application.
+- **Clean Uninstallation**: Launches the uninstaller to remove HydraLauncher and its associated files.
+- **Multilingual Support**: Available in English, Portuguese, and Russian.
 
+---
 
-1: Download the program from releases(https://github.com/hydrasources/fixforhydralauncher/releases/)
+## Installation and Usage
 
-2: Open the program
+1. **Download the Program**: Get the latest release from [GitHub Releases](https://github.com/hydrasources/fixforhydralauncher/releases/).
+2. **Run the Program**: Open the downloaded executable.
+3. **Select Language**: Choose English, Portuguese, or Russian.
+4. **Choose Version**: Select whether you want the installer or portable version.
+5. **Download Option**: Decide whether to download the latest Hydra version (Yes/No).
+6. **Confirm Uninstallation**: Approve the deletion of the HydraLauncher folder and files (this launches the uninstaller).
+7. **Complete**: After uninstallation, log in again and re-add your sources.
 
-3: Select language (Russian or English)
+**Source**: [hydrasources.su](https://hydrasources.su)
 
-4: Confirm deletion of the folder
+---
 
+## Other Languages
 
+- [Русский (Russian)](readme/ru.md)
+- [Português (Portuguese)](readme/pt.md)
 
-Done! The folder is deleted, you will need to log in again and add sources.
+---
 
-Source:
-https://hydrasources.su
+## Notes
 
+- Ensure an active internet connection if you choose to download the latest Hydra version.
+- The uninstallation process will remove all associated files, so back up any important data before proceeding.
+- After running the program, you may need to reconfigure your HydraLauncher settings.
+- The portable version does not require installation and can be run directly from the downloaded location.
 
+---
 
-# Русский:
+## Contributing
 
-Данная программа чинит многие баги и ошибки в HydraLauncher
+Contributions are welcome! If you encounter issues or have suggestions, please open an issue or submit a pull request on [GitHub](https://github.com/hydrasources/fixforhydralauncher).
 
-Инструкция:
-1: Скачать программу из релизов(https://github.com/hydrasources/fixforhydralauncher/releases/)
+---
 
-2: Открыть программу
+## License
 
-3: Выбрать язык(Русский или Английский)
-
-4: Подтвердить удаление папки
-
-
-
-Готово! Папка удалена, нужно будет заново войти в аккаунт и добавить источники
-
-Источник:
-[https://hydrasources.github.io](https://hydrasources.su)
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
